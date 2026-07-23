@@ -12,4 +12,9 @@ tests/
 test-results/
 temp/squads/
 .claude/settings.local.json
-dashboards/test-results/
+# service (Railway HTTP service)
+service/dist/
+service/node_modules/
+# service docs devem ser versionados (a regra 'docs/' acima os pegaria)
+!service/docs/
+!service/docs/**

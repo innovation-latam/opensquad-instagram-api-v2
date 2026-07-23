@@ -37,8 +37,7 @@
     "agents/",
     "skills/",
     "templates/",
-    "_opensquad/",
-    "dashboard/"
+    "_opensquad/"
   ],
   "dependencies": {
     "@inquirer/checkbox": "^5.1.0",
